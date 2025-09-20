@@ -1,0 +1,8 @@
+
+//I will create a JavaScript file with name RPG_games.js.
+//Inside this fileI will define two classes: Hero and Monster.
+
+//The Hero class will have two properties: health and attack along with one method called fightToProtect().
+
+//The Monster class will also have two properties: health and attack, along with one method called fightToKill().
+
